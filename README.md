@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# A Weather App with Live Forecast data Using React Js And openweathermap API.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Features
+
+- According to the weather mood shows weather icon Ex. - Cloudy, Rain, Haze, Clear.
+- Also Fetch and Show Temp data from Weather Api.
+- Also Fetch and Show Weather Aspect such as Wind Speed, Pressure And Humidity.
 
 ## Available Scripts
 
